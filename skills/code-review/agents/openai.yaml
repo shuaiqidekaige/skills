@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Review"
+  short_description: "按工程视角审查改动，聚焦复用、结构、逻辑与边界问题"
+  default_prompt: "使用 $code-review review 一下这组代码改动，重点看复用、结构、类型逻辑以及边界、性能、UI 问题。"
