@@ -1,0 +1,4 @@
+interface:
+  display_name: "Todo Manager"
+  short_description: "创建并维护分类待办清单，记录未实现、未修复与未提交事项"
+  default_prompt: "使用 $todo-manager 创建一个 Markdown 待办清单，分类记录功能未实现、代码未修复、未提交等事项。"
