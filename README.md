@@ -11,4 +11,5 @@
 
 ### 第三方skills
 
-- superpower(用于coding头脑风暴、plan、write、review、fix)
+- [superpower(用于coding头脑风暴、plan、write、review、fix)](https://github.com/obra/superpowers)
+- [git commit](https://github.com/github/awesome-copilot/tree/main/skills/git-commit)
