@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI"
+  short_description: "用 OpenCLI 调网站命令、排查配置并生成适配器"
+  default_prompt: "使用 $opencli 帮我用 OpenCLI 处理这个任务，先匹配合适命令并优先输出结构化结果。"
