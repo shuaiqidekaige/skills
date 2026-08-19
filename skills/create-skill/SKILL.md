@@ -180,4 +180,4 @@ description: <能力、适用场景和用户可能使用的自然表达>
 
 最后明确提醒：
 
-> Skill 已创建到 `~/.k/repository`，`config.json` 已更新。请执行同步命令，将新 Skill 生成并安装到对应的编码工具中。
+> Skill 已创建到 `~/.k/repository`，`config.json` 已更新。请先运行 `skill push` 提交并推送源码，再运行 `skill sync` 选择并同步到对应的编码工具。

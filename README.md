@@ -37,4 +37,4 @@
 
 使用 `create-skill` 创建新 Skill。它会将源码写入 `~/.k/repository/skills/`，根据 Skill 类型维护 `~/.k/repository/config.json`，并在写入前展示完整草稿供用户确认。
 
-创建完成后，执行同步 CLI，将源码转换并安装到已选择的编码工具中。
+创建完成后，先运行 `skill push` 提交并推送源码，再运行 `skill sync` 选择并同步到需要的编码工具。
