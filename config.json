@@ -1,0 +1,5 @@
+{
+  "create-skill": {
+    "disable-model-invocation": true
+  }
+}
